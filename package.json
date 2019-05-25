@@ -1,0 +1,14 @@
+{
+  "id": "meetfranz-hubspot",
+  "name": "HubSpot",
+  "version": "1.0.0",
+  "description": "HubSpot integration",
+  "main": "index.js",
+  "author": "Janis Hau <janis@my-new.me>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.hubspot.com",
+    "hasNotificationSound": true,
+    "message": "HubSpot"
+  }
+}
